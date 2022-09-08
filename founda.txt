@@ -1,0 +1,158 @@
+++++++++++++++++++++++++
+( 1 )  what similarity laws must be obeyed when constructing aeroelastic models
+of heated high speed aircraft .
+K: 1   486   -1
+K: 2   13   4
+K: 3   1268   0
+K: 4   51   3
+K: 5   1144   0
+K: 6   792   0
+K: 7   14   4
+K: 8   686   0
+K: 9   685   0
+K: 10   12   3
+++++++++++++++++++++++++
+( 2 )  what are the structural and aeroelastic problems associated with flight
+of high speed aircraft .
+K: 1   51   3
+K: 2   12   1
+K: 3   792   0
+K: 4   14   4
+K: 5   746   1
+K: 6   1147   0
+K: 7   1169   0
+K: 8   100   0
+K: 9   884   0
+K: 10   724   0
+++++++++++++++++++++++++
+( 56 )  what size of end plate can be safely used to simulate two-dimensional
+flow conditions over a bluff cylindrical body of finite aspect ratio .
+K: 1   1040   0
+K: 2   1082   0
+K: 3   1209   0
+K: 4   704   0
+K: 5   749   3
+K: 6   247   0
+K: 7   1341   0
+K: 8   1313   0
+K: 9   712   0
+K: 10   698   0
+++++++++++++++++++++++++
+( 83 )  what controls leading-edge attachment at transonic speeds .
+K: 1   797   0
+K: 2   526   0
+K: 3   440   0
+K: 4   222   0
+K: 5   683   2
+K: 6   712   0
+K: 7   334   0
+K: 8   1228   0
+K: 9   707   0
+K: 10   798   0
+++++++++++++++++++++++++
+( 99 )  is it possible to determine rates of forced convective heat transfer
+from heated cylinders of non-circular cross-section,  (the fluid flow
+being along the generators) .
+K: 1   270   0
+K: 2   1268   0
+K: 3   1104   0
+K: 4   416   0
+K: 5   120   0
+K: 6   788   0
+K: 7   1040   0
+K: 8   962   0
+K: 9   873   0
+K: 10   717   2
+++++++++++++++++++++++++
+( 100 )  how much is known about boundary layer flows along non-circular
+cylinders .
+K: 1   839   0
+K: 2   523   0
+K: 3   845   0
+K: 4   332   0
+K: 5   1359   0
+K: 6   1122   2
+K: 7   921   0
+K: 8   1051   3
+K: 9   897   0
+K: 10   852   0
+++++++++++++++++++++++++
+( 171 )  what are the aerodynamic interference effects on the fin lift and body
+lift of a fin-body combination .
+K: 1   803   0
+K: 2   610   0
+K: 3   210   0
+K: 4   1239   0
+K: 5   252   1
+K: 6   1074   0
+K: 7   229   0
+K: 8   520   0
+K: 9   1075   0
+K: 10   230   0
+++++++++++++++++++++++++
+( 189 )  has anyone programmed a pump design method for a high-speed digital
+computer .
+K: 1   945   0
+K: 2   92   0
+K: 3   1063   0
+K: 4   328   0
+K: 5   988   0
+K: 6   989   0
+K: 7   12   0
+K: 8   1246   0
+K: 9   762   0
+K: 10   869   2
+++++++++++++++++++++++++
+( 212 )  what dome contours minimize discontinuity stresses when used as closures
+on cylindrical pressure vessels .
+K: 1   827   0
+K: 2   889   2
+K: 3   954   0
+K: 4   329   0
+K: 5   1175   0
+K: 6   887   3
+K: 7   890   3
+K: 8   1125   0
+K: 9   870   0
+K: 10   885   3
+++++++++++++++++++++++++
+( 213 )  what general solutions for the stresses in pressurized shells of
+revolution are available .
+K: 1   839   0
+K: 2   1051   0
+K: 3   889   2
+K: 4   826   0
+K: 5   1043   0
+K: 6   955   0
+K: 7   1134   0
+K: 8   195   0
+K: 9   1070   0
+K: 10   930   0
+++++++++++++++++++++++++
+( 214 )  can studies of pure membrane cylinders having no wall bending stiffness
+but maintaining their shape by virtue of internal pressure provide any
+insight into the behaviour of pressurized cylinders with finite wall
+stiffness .
+K: 1   839   0
+K: 2   955   0
+K: 3   199   0
+K: 4   846   0
+K: 5   1363   3
+K: 6   763   0
+K: 7   928   0
+K: 8   1051   0
+K: 9   840   0
+K: 10   730   0
+++++++++++++++++++++++++
+( 225 )  how can the effect of the boundary-layer on wing pressure be calculated,
+and what is its magnitude .
+K: 1   272   0
+K: 2   1225   0
+K: 3   673   0
+K: 4   683   0
+K: 5   433   3
+K: 6   94   0
+K: 7   696   0
+K: 8   375   0
+K: 9   826   0
+K: 10   80   0

@@ -1,7 +1,7 @@
 ++++++++++++++++++++++++
 ( 1 )  what similarity laws must be obeyed when constructing aeroelastic models
 of heated high speed aircraft .
-K: 1   184   2
+K: 1   184   2 [2,0,3,-1,4,3,4,0,0,0]
 K: 2   1268   0
 K: 3   12   3
 K: 4   486   -1

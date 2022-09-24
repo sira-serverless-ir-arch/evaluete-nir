@@ -1,0 +1,11 @@
+{
+    "Id": "7",
+    "Length": 21,
+    "Tf": {
+        "appears": 1, "begins": 1,"boundary": 2,
+        "boundarylayer": 2,"breakdown": 2,"breaks": 1,
+        "california": 1,"contaminates": 1, "contamination": 1,
+        "controlled": 1, "double": 1, "edge": 1, "effect": 3,
+        "element": 1, "elements": 3
+    }
+}

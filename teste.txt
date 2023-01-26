@@ -1,0 +1,15 @@
+fn main() {
+    alloc %aton.1
+    load %aton.1 20.652 
+    + 
+    y * 
+    y -
+    89
+
+    let variavel = 20.652 + y * y -89
+    
+    20.652 + 
+    y * 
+    y -
+    89
+}
